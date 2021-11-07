@@ -1,0 +1,30 @@
+<style>
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    padding: 25px;
+}
+
+.displaybox{
+    display: flex;
+    justify-content: space-between;
+}
+
+.displayend{
+    display: flex;
+    justify-content: end;
+}
+.artikel{
+    margin: 25px 0px;
+}
+.displayflex{
+    display: flex;
+}
+.collums{
+    width: 33%;
+    padding: 10px;
+    margin-left: 10px;
+}
+</style>
