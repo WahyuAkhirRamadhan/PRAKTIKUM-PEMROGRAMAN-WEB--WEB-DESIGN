@@ -1,0 +1,23 @@
+style
+
+.satu {
+    text-align: center;
+}
+.dua {
+    text-align: center; color: dodgerblue;
+}    
+.tiga {
+    text-align: center;
+}
+.empat {
+    border: darkslategray; width: 800px;
+}
+.lima {
+    text-align: center; width: 300px;
+}
+.enam {
+    text-align: center; width: 100px;
+}
+.tujuh {
+    text-align: center; width: 50px;
+}
